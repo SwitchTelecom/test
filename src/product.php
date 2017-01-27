@@ -91,7 +91,7 @@ class Product_line  extends Products
 {
 
     /**
-     * @var
+     * @var $type
      * $type
      */
      protected $type = 'line';
